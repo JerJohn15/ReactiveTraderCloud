@@ -17,6 +17,11 @@ The services are distributed and are capable of recovery from disconnections. Th
 ### Live Demo
 A live demo can be found at [web-demo.adaptivecluster.com/](https://web-demo.adaptivecluster.com/)
 
+## Getting Started
+
+You will find a guide to setup ReactiveTraderCloud for your platform [here](https://github.com/AdaptiveConsulting/ReactiveTraderCloud/blob/master/docs/setup/getting-started.md).
+
+
 ## Architecture
 
 The backend is made up of distributed services written in .NET leveraging the cross-platform capabilities provided by [.NET Core](https://dotnet.github.io).
@@ -35,9 +40,6 @@ The front-end is written in Javascript with React.  More details on the client-s
 
 The back-end services are cross-platform. More details on the back-end infrastructure are available [here](https://github.com/AdaptiveConsulting/ReactiveTraderCloud/blob/master/docs/server.md).
 
-## Getting Started
-
-You will find a guide to setup ReactiveTraderCloud for your platform [here](https://github.com/AdaptiveConsulting/ReactiveTraderCloud/blob/master/docs/setup/getting-started.md).
 
 ## Concepts
 
